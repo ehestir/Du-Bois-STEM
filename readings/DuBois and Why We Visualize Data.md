@@ -1,1 +1,1 @@
-#Reading on why we visualize data
+# Reading on why we visualize data
