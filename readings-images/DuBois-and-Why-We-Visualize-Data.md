@@ -16,10 +16,10 @@ Recent scholarship (Conwell and Loughren 2024; Itzigsohn and Brown 2020; Morris 
 (Starks 2022) have recentered Black sociologist W. E. B. Du Bois’s foundational contributions to social scientific and
 statistical methods at the turn of the 20th century. DuBois was among the first professors in the nation to train
 students in empirical methodologies. He involved his students in field work, including large scale quantitative
-surveys, wherein they collected and analyzed data on the Black community and race relations. Because these students
+surveys, wherein they collected and analyzed data on the Black community and how the community had changed over time. Because these students
 were taught to think scientifically and engage in data analysis, the most advanced of the group became valuable
 collaborators (Morris 2018; Battle-Baptiste and Rusert 2018). Du Bois used rigorous yet accessible methods, including
-data visualization, to empirically challenge the false claims of eugenics and scientific racism.
+data visualization, to empirically challenge the false claims of eugenics that improperly deployed scientific methods to disparage Blacks as inherently inferior to other groups.
 
 Du Bois notably used innovative data visualizations to tell data stories about Black Americans for broad audiences to
 chronicle the educational and economic success of Black Americans following emancipation from slavery
