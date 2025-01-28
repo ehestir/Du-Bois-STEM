@@ -1,7 +1,6 @@
 # Why Visualize Data: Creative and Visual Thinking in the Case of Du Bois
 
-Why Visualize Data: Creative and Visual Thinking in the Case of Du Bois
- 
+
 Academic and professional undertakings often present us with questions that are hard to answer with words alone. Creativity is often valuable for answering the hardest questions, including scientific ones. And visualization of concepts and data can be an important creative tool for formulating and answering questions. Because science and most professions involve collective undertakings, you will also need to communicate your ideas and analysis to others. Visualizations can again be a powerful creative tool towards this end. Cascades of mind numbing data will often lose your audience and collaborators. 
 
 Recent scholarship (Conwell and Loughren 2024; Itzigsohn and Brown 2020; Morris 2017) and social media initiatives (Starks 2022) have recentered Black sociologist W. E. B. Du Bois’s foundational contributions to social scientific and statistical methods at the turn of the 20th century. After receiving a PhD from Harvard, DuBois was among the first professors in the nation to train students in empirical methodologies. He involved his students in field work, including large scale quantitative surveys, wherein they collected and analyzed data on the Black community and race relations. Because these students were taught to think scientifically and engage in data analysis, the most advanced of the group became valuable collaborators (Morris 2018; Battle-Baptiste and Rusert 2018). Du Bois and this team used rigorous yet accessible methods, including data visualization, to empirically challenge the false claims of eugenics and scientific racism. 
@@ -16,10 +15,7 @@ Du Bois’ collaborators included women, such as social worker Jane Addams and s
 
 Du Bois insisted that science be built on careful, empirical research (Morris 2015) but must go further to garner notice beyond narrow circles of academics. As noted above, Du Bois and his Atlanta University team produced modern graphs, charts, maps, photographs and other items that appeared to sparkle for the 1900 Paris Exposition (Morris 2018; Battle-Baptiste and Rusert 2018). As Morris has noted, the intent was to convey weighty social scientific ideas in a fashion far more attractive than dispassionate arguments and dense statistical tables.
 
-Please take a moment to browse a [subset of Du Bois’ visualizations here:]
-(https://github.com/ajstarks/dubois-data-portraits/blob/master/dubois-stem/README.md)
-
-## Du Bois Visualizations for Consideration in STEM Education
+## A Sample of the Du Bois Visualizations from the Paris Exposition
 
 Note that the plate numbers referenced below are from [W. E. B. Du Bois's Data Portraits: Visualizing Black America]
 (https://papress.com/products/w-e-b-du-boiss-data-portraits-visualizing-black-america)
