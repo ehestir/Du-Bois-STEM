@@ -1,49 +1,20 @@
 # Why Visualize Data: Creative and Visual Thinking in the Case of Du Bois
 
-*It’s often said that a picture is worth a thousand words.*
+Why Visualize Data: Creative and Visual Thinking in the Case of Du Bois
+ 
+Academic and professional undertakings often present us with questions that are hard to answer with words alone. Creativity is often valuable for answering the hardest questions, including scientific ones. And visualization of concepts and data can be an important creative tool for formulating and answering questions. Because science and most professions involve collective undertakings, you will also need to communicate your ideas and analysis to others. Visualizations can again be a powerful creative tool towards this end. Cascades of mind numbing data will often lose your audience and collaborators. 
 
-Pictures can be more memorable than words and even more memorable than numbers.
+Recent scholarship (Conwell and Loughren 2024; Itzigsohn and Brown 2020; Morris 2017) and social media initiatives (Starks 2022) have recentered Black sociologist W. E. B. Du Bois’s foundational contributions to social scientific and statistical methods at the turn of the 20th century. After receiving a PhD from Harvard, DuBois was among the first professors in the nation to train students in empirical methodologies. He involved his students in field work, including large scale quantitative surveys, wherein they collected and analyzed data on the Black community and race relations. Because these students were taught to think scientifically and engage in data analysis, the most advanced of the group became valuable collaborators (Morris 2018; Battle-Baptiste and Rusert 2018). Du Bois and this team used rigorous yet accessible methods, including data visualization, to empirically challenge the false claims of eugenics and scientific racism. 
 
-There will be times in your academic or professional career where you will need to answer a question for yourself or
-others that is hard to answer with words alone. Creativity is often valuable for answering the hardest questions,
-including scientific ones. And visualization of concepts and data can be an important creative tool for formulating and
-answering questions. Because science and most professions involve collective undertakings, you will also need to
-communicate your ideas and analysis to others. Visualizations can again be a powerful creative tool towards this end.
-Cascades of mind numbing data will often lose your audience and collaborators.
+The Du Bois team notably used innovative data visualizations to tell data stories about Black Americans for broad audiences. They chronicled the educational and economic success of Black Americans following emancipation from slavery (Battle-Baptiste and Rusert 2018). Du Bois drew heavily on infographics and artistic media (see architecture scholar Mabel O. Wilson in Battle-Baptiste and Rusert 2018). For example, the Du Bois team prepared more than 50 data visualization posters for an Exhibit featured at the 1900 Paris Exposition world’s fair. The Du Bois visualizations won the Exposition’s Gold Medal for their quality. The posters are now preserved in the Library of Congress.
 
-Recent scholarship (Conwell and Loughren 2024; Itzigsohn and Brown 2020; Morris 2017) and social media initiatives
-(Starks 2022) have recentered Black sociologist W. E. B. Du Bois’s foundational contributions to social scientific and
-statistical methods at the turn of the 20th century. DuBois was among the first professors in the nation to train
-students in empirical methodologies. He involved his students in field work, including large scale quantitative
-surveys, wherein they collected and analyzed data on the Black community and how the community had changed over time. Because these students
-were taught to think scientifically and engage in data analysis, the most advanced of the group became valuable
-collaborators (Morris 2018; Battle-Baptiste and Rusert 2018). Du Bois used rigorous yet accessible methods, including
-data visualization, to empirically challenge the false claims of eugenics that improperly deployed scientific methods to disparage Blacks as inherently inferior to other groups.
+Below, you can browse a subset of the Du Bois posters from the 1900 Paris Exposition. Together, the posters presented a unified narrative of Black empowerment. The poster series prefigured subsequent research findings regarding the importance of visualization and storytelling in STEM education (Friendly and Wainer 2021; Hill and Grinnell 2014). 
 
-Du Bois notably used innovative data visualizations to tell data stories about Black Americans for broad audiences to
-chronicle the educational and economic success of Black Americans following emancipation from slavery
-(Battle-Baptiste and Rusert 2018). Du Bois relied on infographics and artistic media (see architecture scholar Mabel O.
-Wilson). More than 50 of Du Bois data visualization posters were featured at the 1900 Paris Exposition world’s fair and
-are now preserved in the Library of Congress. The unified narrative of Black empowerment that Du Bois crafted with the
-poster series prefigured subsequent research findings regarding the importance of visualization and storytelling in
-STEM education (Friendly and Wainer 2021; Hill and Grinnell 2014).
+With the posters, Du Bois and his collaborators made some of the other earliest known deployments of statistical methods in social science. For example, the posters employ categorical data analysis and visualization. Du Bois’ innovative techniques also include clustered bar charts to present partial tables that control for confounding factors. Du Bois used this method to disprove racist myths about Black family structure by showing higher marriage rates among Blacks than among Germans after controlling for age. Du Bois employed this partial table technique sixty years before it became state of the art (Treiman 2014). Du Bois also produced some of the earliest cartographical visualizations of geosocial data. Triangulation of qualitative and quantitative data 
 
-Du Bois and his collaborators made some of the other earliest known deployments of statistical methods in social
-science, including: Categorical data analysis and visualization, including clustered bar chart presentations of partial
-tables to control for confounding factors. Du Bois used the method to disprove racist myths about Black family
-structure by showing higher marriage rates among Blacks than among Germans after controlling for age, showcasing this
-technique sixty years before it became state of the art (Treiman 2014). Cartographical visualization of geosocial data.
-Triangulation of qualitative and quantitative data
+Du Bois’ collaborators included women, such as social worker Jane Addams and sociologist Isabel Eaton. The two women contributed to the expansion of survey research and advancement of statistical methods around the turn of the 20th century (Morris 2018; Williams and MacLean 2015).  
 
-Du Bois’ collaborators included women, such as social worker Jane Addams and sociologist Isabel Eaton. The two women
-contributed to the expansion of survey research and advancement of statistical methods around the turn of the 20th
-century (Morris 2018; Williams and MacLean 2015).
-
-Our module design is guided by Du Bois’s insistence that science be built on careful, empirical research (Morris 2015)
-but most go further to garner notice beyond narrow circles of academics. As noted above, Du Bois and his Atlanta
-University team produced modern graphs, charts, maps, photographs and other items that appeared to sparkle for the 1900
-Paris Exposition (Morris 2018; Battle-Baptiste and Rusert 2018). As Morris has noted, the intent was to convey weighty
-social scientific ideas in a fashion far more attractive than dispassionate arguments and dense statistical tables.
+Du Bois insisted that science be built on careful, empirical research (Morris 2015) but must go further to garner notice beyond narrow circles of academics. As noted above, Du Bois and his Atlanta University team produced modern graphs, charts, maps, photographs and other items that appeared to sparkle for the 1900 Paris Exposition (Morris 2018; Battle-Baptiste and Rusert 2018). As Morris has noted, the intent was to convey weighty social scientific ideas in a fashion far more attractive than dispassionate arguments and dense statistical tables.
 
 Please take a moment to browse a [subset of Du Bois’ visualizations here:]
 (https://github.com/ajstarks/dubois-data-portraits/blob/master/dubois-stem/README.md)
