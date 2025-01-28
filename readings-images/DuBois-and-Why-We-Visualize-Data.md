@@ -2,8 +2,7 @@
 
 *It’s often said that a picture is worth a thousand words.*
 
-Pictures can be more memorable than words and even more memorable than numbers. In support of this, a Nielsen study
-found that the brain processes images 60X faster in comparison to words.
+Pictures can be more memorable than words and even more memorable than numbers.
 
 There will be times in your academic or professional career where you will need to answer a question for yourself or
 others that is hard to answer with words alone. Creativity is often valuable for answering the hardest questions,
