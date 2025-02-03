@@ -20,7 +20,7 @@ Du Bois insisted that science be built on careful, empirical research but must g
 
 **Conwell, J. A., & Loughran, K.** (2024). Quantitative inquiry in the early sociology of W. E. B. Du Bois. *Du Bois Review: Social Science Research on Race, 21(2),* 368-390.
 
-**[Du Bois Visualization Style Guide]**
+**Du Bois Visualization Style Guide**
 (https://github.com/ajstarks/dubois-data-portraits/blob/master/style/dubois-style.pdf)
 
 **Friendly, M., & Wainer, H.** (2021). *A history of data visualization and graphic communication* (Vol. 56). Cambridge: Harvard University Press.  
