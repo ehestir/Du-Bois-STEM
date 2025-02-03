@@ -24,7 +24,7 @@ Du Bois insisted that science be built on careful, empirical research but must g
 
 **Hill, S., & Grinnell, C.** (2014, October). Using digital storytelling with infographics in STEM professional writing pedagogy. In *2014 IEEE International Professional Communication Conference (IPCC)* (pp. 1-7). IEEE.  
 
-**Itzigsohn, J., & Brown, K. L.** (2020). *The sociology of W. E. B. Du Bois: Racialized modernity and the global color line*. NYU Press. [http://www.jstor.org/stable/j.ctv11vcch9](http://www.jstor.org/stable/j.ctv11vcch9)  
+**Itzigsohn, J., & Brown, K. L.** (2020). *The sociology of W. E. B. Du Bois: Racialized modernity and the global color line*. NYU Press.
 
 **Morris, A.** (2017). *The scholar denied: W. E. B. Du Bois and the birth of modern sociology*. University of California Press.  
 
