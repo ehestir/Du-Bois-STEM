@@ -5,6 +5,7 @@ FROM quay.io/jupyter/r-notebook:2024-10-03
 RUN mamba install --yes \
     'nbgitpuller' \
     'pandas' \
+    'geopandas' \
     'matplotlib' \
     'r-extrafont' && \
     mamba clean --all -f -y && \
